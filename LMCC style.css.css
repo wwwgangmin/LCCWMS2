@@ -1,0 +1,36 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "RobotoDraft", "Roboto", sans-serif
+}
+
+.w3-bar-block .w3-bar-item {
+    padding: 16px
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 1px solid #0b0b0b;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    border: 1px solid #0e0e0e;
+    text-align: center;
+    padding: 8px;
+    background-color: #ddddddc1;
+}
+
+tr:nth-child(even) {
+    background-color: #e5f0e5;
+}
